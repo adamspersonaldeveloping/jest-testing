@@ -27,3 +27,7 @@ describe("password should pass all tests", () => {
     expect(isPasswordValid("Cash1234")).toBeTruthy();
   });
 });
+
+// test("mom's password should pass", () => {
+//   expect(isPasswordValid("Pamelaclaimcalifornia60#")).toBeTruthy();
+// });
